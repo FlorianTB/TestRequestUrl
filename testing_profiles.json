@@ -1,0 +1,14 @@
+[
+    {
+        "id":1,
+        "game":"pirate"
+    },
+    {
+        "id":2,
+        "game":"losnarcos"
+    },
+    {
+        "id":3,
+        "game":"egypt"
+    }
+]
