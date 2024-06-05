@@ -1,29 +1,11 @@
 [
   {
-    "id": 1,
-    "game": "pirate",
-    "room": null,
-    "gameflowDirectoryPath": "C:\\src\\github\\gameengine\\gameflows\\pirate",
-    "outputResultsDirectoryPath": "C:\\src\\github\\gameengine\\gameflows\\testing\\output_results\\pirate",
-    "testCasesBaseDirectoryPath": "C:\\src\\github\\gameengine\\gameflows\\testing\\pirate",
-    "enabled": false
+    "key": "key1"
   },
   {
-    "id": 2,
-    "game": "losnarcos",
-    "room": null,
-    "gameflowDirectoryPath": "C:\\src\\github\\gameengine\\gameflows\\los-bandidos",
-    "outputResultsDirectoryPath": "C:\\src\\github\\gameengine\\gameflows\\testing\\output_results\\losbandidos",
-    "testCasesBaseDirectoryPath": "C:\\src\\github\\gameengine\\gameflows\\testing\\losbandidos",
-    "enabled": false
+    "key": "key2"
   },
   {
-    "id": 3,
-    "game": "egypt",
-    "room": null,
-    "gameflowDirectoryPath": "C:\\src\\github\\gameengine\\gameflows\\egypt",
-    "outputResultsDirectoryPath": "C:\\src\\github\\gameengine\\gameflows\\testing\\output_results\\egypt",
-    "testCasesBaseDirectoryPath": "C:\\src\\github\\gameengine\\gameflows\\testing\\egypt",
-    "enabled": true
+    "key": "key3"
   }
 ]
